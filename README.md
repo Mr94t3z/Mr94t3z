@@ -47,9 +47,10 @@
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:mr.94t3z@gmail.com'>mr94t3z@gmail.com</a>
+  
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/stalker/mr94t3z/mr94t3z"></a> total of stalkers.
+  <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers.
 </p>
 
 <p align='center'>
