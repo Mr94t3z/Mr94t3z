@@ -31,7 +31,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mr94t3z&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mr94t3z&show_icons=true&count_private=true&theme=blue" width="350"></a>
 </p>
 
 <p align='center'>
@@ -64,13 +64,13 @@
 ## Education
 
 - 📖 **Informatics Engineering**\
-📆 2019 - Moment\
+📆 2019 - Now\
 📍 **State Islamic University** - Gunung Djati, Bandung
 
 ## Experience
 
 - 👨‍💻 **Blockhain Developer**\
-📆 2021 - Moment\
+📆 2021 - Now\
 📍 **Solana, Fantom, Ethereum** - Nighcity, Indonesian
   
 </details>
