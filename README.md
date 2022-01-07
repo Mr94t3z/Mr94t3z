@@ -41,8 +41,8 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=8GB" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=dark" alt="mr94t3z" />
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=dark" alt="mr94t3z" />
 </p>
 
 <p align='center'>
@@ -52,7 +52,7 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers.
 </p>
 
-<p align = "center">
+<p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&theme=dark" alt="mr94t3z" />
 </p>
 
