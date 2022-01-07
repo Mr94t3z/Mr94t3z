@@ -35,7 +35,7 @@
 </p>
 
 <p align='center'>
-  💻 My workspace<br/><br/>
+  💻 My Workspace<br/><br/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Air&color=000000&logo=Apple&logoColor=FFFFFF&label=Macbook" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chip&color=000000&logo=Apple+Arcade&logoColor=FFFFFF&label=M1" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=8GB" />
@@ -45,7 +45,7 @@
   📫 How to reach me: <a href='mailto:mr.94t3z@gmail.com'>mr94t3z@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> hipsters and nerds have come here o/
 </p>
 
 <p align = "center">
