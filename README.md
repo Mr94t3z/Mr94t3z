@@ -64,7 +64,7 @@
 ## Education
 
 - 📖 **Informatics Engineering**\
-📆 2019 - Now\
+📆 2019 - now\
 📍 **State Islamic University** - Gunung Djati, Bandung
 
 ## Experience
