@@ -64,13 +64,13 @@
 ## Education
 
 - 📖 **Informatics Engineering**\
-📆 2019 - now\
+📆 2019 - Moment\
 📍 **State Islamic University** - Gunung Djati, Bandung
 
 ## Experience
 
 - 👨‍💻 **Blockhain Developer**\
-📆 2021 - moment\
+📆 2021 - Moment\
 📍 **Solana, Fantom, Ethereum** - Nighcity, Indonesian
   
 </details>
