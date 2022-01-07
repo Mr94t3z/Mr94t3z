@@ -31,7 +31,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mr94t3z&show_icons=true&count_private=true&theme=blue" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mr94t3z&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -42,7 +42,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=dark" alt="mr94t3z" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=blue" alt="mr94t3z" />
 </p>
 
 <p align='center'>
