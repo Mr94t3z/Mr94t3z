@@ -36,7 +36,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/AIR-%230078D6.svg?&style=for-the-badge&logo=macbook&logoColor=white" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Air&color=000000&logo=Apple&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/M1%202021-%230071C5.svg?&style=for-the-badge&logo=m1&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
