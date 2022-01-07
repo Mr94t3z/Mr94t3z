@@ -48,6 +48,10 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds have come here o/
 </p>
 
+<p align = "center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&" alt="mr94t3z" />
+</p>
+
 <details>
   <summary>📃 Resume</summary>
 
@@ -60,14 +64,8 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
 - 👨‍💻 **Blockhain Developer**\
 📆 2021 - moment\
 📍 **Solana, Fantom, Ethereum** - Nighcity, Indonesian
   
 </details>
-
-<p align = "center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&" alt="mr94t3z" />
-</p>
