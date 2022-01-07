@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A blockchain develover from Indonesian.
+  A blockchain developer from Indonesian.
 </p>
 
 
