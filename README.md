@@ -41,6 +41,10 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=8GB" />
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=dark" alt="mr94t3z" />
+</p>
+
 <p align='center'>
   📫 How to reach me: <a href='mailto:mr.94t3z@gmail.com'>mr94t3z@gmail.com</a>
 </p>
@@ -49,7 +53,7 @@
 </p>
 
 <p align = "center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&" alt="mr94t3z" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&theme=dark" alt="mr94t3z" />
 </p>
 
 <details>
@@ -69,10 +73,3 @@
 📍 **Solana, Fantom, Ethereum** - Nighcity, Indonesian
   
 </details>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact" alt="mr94t3z" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr94t3z&show_icons=true&locale=en" alt="mr94t3z" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&" alt="mr94t3z" /></p>
-
