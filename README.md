@@ -71,6 +71,6 @@
 
 - 👨‍💻 **Blockhain Developer**\
 📆 2021 - Now\
-📍 **Solana, Fantom, Ethereum** - Nighcity, Indonesian
+📍 **Solana, Fantom, Ethereum** - Nightcity, Indonesian
   
 </details>
