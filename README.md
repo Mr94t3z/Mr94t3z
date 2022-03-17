@@ -69,7 +69,7 @@
 
 ## Experience
 
-- 👨‍💻 **Blockhain Developer**\
+- 👨‍💻 **Blockchain Developer**\
 📆 2021 - Now\
 📍 **Solana, Fantom, Ethereum** - Nightcity, Indonesian
   
