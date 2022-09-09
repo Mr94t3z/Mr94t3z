@@ -50,6 +50,7 @@
 </p>
 
 <p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=mr94t3z&label=Profile%20views&color=129e00&style=plastic" alt="mr94t3z" />
   <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers.
 </p>
 
