@@ -67,7 +67,7 @@
 
 - 📖 **Informatics Engineering**\
 📆 2019 - Now\
-📍 **State Islamic University** - Gunung Djati, Bandung
+📍 **State Islamic University** - Sunan Gunung Djati, Bandung
 
 ## Experience
 
