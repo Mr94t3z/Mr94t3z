@@ -36,8 +36,8 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Air&color=000000&logo=Linux&logoColor=FFFFFF&label=Linux" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chip&color=000000&logo=Apple+Arcade&logoColor=FFFFFF&label=Ubuntu" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mint&color=000000&logo=Linux&logoColor=FFFFFF&label=Linux" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chip&color=000000&logo=Apple+Arcade&logoColor=FFFFFF&label=Intel" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=12GB" />
 </p>
 
@@ -71,12 +71,12 @@
 
 ## Experience
 
-- ⚙️ **Backend Developer**\
-📆 2022 - Present\
-📍 **PTIPD UIN Sunan Gunung Djati** - Bandung, Indonesian
-
 - 👨‍💻 **Blockchain Developer**\
 📆 2021 - Present\
 📍 **KYVE, Fantom, Ethereum** - Vibestcity, Indonesian
+
+- ⚙️ **Backend Developer**\
+📆 2022 - Present\
+📍 **PTIPD UIN Sunan Gunung Djati** - Bandung, Indonesian
   
 </details>
