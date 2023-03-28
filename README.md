@@ -66,13 +66,17 @@
 ## Education
 
 - 📖 **Informatics Engineering**\
-📆 2019 - Now\
+📆 2019 - Present\
 📍 **State Islamic University** - Sunan Gunung Djati, Bandung
 
 ## Experience
 
+- ⚙️ **Backend Developer**\
+📆 2022 - Present\
+📍 **PTIPD UIN Sunan Gunung Djati** - Bandung, Indonesian
+
 - 👨‍💻 **Blockchain Developer**\
-📆 2021 - Now\
-📍 **Solana, Fantom, Ethereum** - Nightcity, Indonesian
+📆 2021 - Present\
+📍 **KYVE, Fantom, Ethereum** - Vibestcity, Indonesian
   
 </details>
