@@ -36,7 +36,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mint&color=000000&logo=Apple&logoColor=FFFFFF&label=Apple" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=Apple" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chip&color=000000&logo=Apple+Arcade&logoColor=FFFFFF&label=M1" />
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=8GB" />
 </p>
