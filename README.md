@@ -45,9 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=dark" alt="mr94t3z" />
 </p>
 
-<p align='center'>
+<!--<p align='center'>
   📫 How to reach me: <a href='mailto:mr.94t3z@gmail.com'>mr.94t3z@gmail.com</a>
-</p>
+</p>-->
 
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=mr94t3z&label=Stalker&color=129e00&style=plastic" alt="mr94t3z" />
