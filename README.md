@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>&nbsp;&nbsp;
  
- <a href="https://twitter.com/mr94t3z">
+ <a href="https://twitter.com/0x94t3z">
   <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
  </a>&nbsp;&nbsp;
   
