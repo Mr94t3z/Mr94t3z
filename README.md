@@ -25,7 +25,7 @@
  </a>&nbsp;&nbsp;
  
  <a href="https://twitter.com/0x94t3z">
-  <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
+  <img src="https://img.shields.io/twitter/follow/0x94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
  </a>&nbsp;&nbsp;
   
 </p>
