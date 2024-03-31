@@ -8,7 +8,10 @@
   A blockchain developer from Indonesia.
 </p>
 
-
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=mr94t3z&label=Views&color=129e00&style=plastic" alt="mr94t3z" />
+  <br>
+</p>
 
 <p align='center'>
   
@@ -43,19 +46,15 @@
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=8GB" />
 </p>
 
+<!--
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr94t3z&show_icons=true&locale=en&layout=compact&theme=dark" alt="mr94t3z" />
 </p>
+-->
 
 <!--<p align='center'>
   📫 How to reach me: <a href='mailto:mr.94t3z@gmail.com'>mr.94t3z@gmail.com</a>
 </p>-->
-
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=mr94t3z&label=Stalker&color=129e00&style=plastic" alt="mr94t3z" />
-  <br>
-  <!-- <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers. -->
-</p>
 
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr94t3z&theme=dark" alt="mr94t3z" />
