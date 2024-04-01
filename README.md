@@ -1,11 +1,11 @@
 
 
 <h1 align='center'>
-  Hi there 👋🏻 I'm Muhamad Taopik 🧑🏻‍💼
+ Hello world 👋🏻 I'm Muhamad Taopik 🧑🏻‍💼
 </h1>
 
 <p align='center'>
-  A <strong>Blockchain Developer</strong> from Indonesia.
+  A <strong>Blockchain Dev</strong> from Indonesia.
 </p>
 
 <p align='center'>
