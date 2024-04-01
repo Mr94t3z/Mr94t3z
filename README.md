@@ -75,12 +75,16 @@
 
 ## Experience
 
-- 👨‍💻 **Blockchain Developer**\
+- 👨‍💻 **Blockchain Dev**\
 📆 2021 - Present\
-📍 **KYVE, Fantom, Ethereum** - Vibestcity, Indonesian
+📍 **L1 and L2 Chain** - Vibestcity, Indonesian
 
-- ⚙️ **Backend Developer**\
+- ⚙️ **Backend Dev**\
 📆 2022 - Present\
 📍 **PTIPD UIN Sunan Gunung Djati** - Bandung, Indonesian
+
+- 🐸 **Farcaster Dev**\
+📆 2024 - Present\
+📍 **L2 Chain** - Warpcity, International
   
 </details>
