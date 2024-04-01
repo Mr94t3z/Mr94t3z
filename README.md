@@ -13,6 +13,8 @@
   <br>
 </p>
 
+
+<!--
 <p align='center'>
   
  <a href="https://www.facebook.com/mr.94t3z">
@@ -32,6 +34,7 @@
  </a>&nbsp;&nbsp;
   
 </p>
+-->
 
 <!--
 <p align='center'>
