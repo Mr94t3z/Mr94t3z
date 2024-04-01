@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A <strong>Blockchain Dev</strong> from Indonesia.
+  A <strong>Blockchain Developer</strong> from Indonesia.
 </p>
 
 <p align='center'>
@@ -75,15 +75,15 @@
 
 ## Experience
 
-- 👨‍💻 **Blockchain Dev**\
+- 👨‍💻 **Blockchain Developer**\
 📆 2021 - Present\
 📍 **L1 and L2 Chain** - Vibestcity, Indonesian
 
-- ⚙️ **Backend Dev**\
+- ⚙️ **Backend Developer**\
 📆 2022 - Present\
 📍 **PTIPD UIN Sunan Gunung Djati** - Bandung, Indonesian
 
-- 🐸 **Farcaster Dev**\
+- 🐸 **Farcaster Developer**\
 📆 2024 - Present\
 📍 **L2 Chain** - Warpcity, International
   
