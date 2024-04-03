@@ -85,6 +85,6 @@
 
 - 🐸 **Farcaster Developer**\
 📆 2024 - Present\
-📍 **L2 Chain** - Warpcity, International
+📍 **L2 Chain** - Warpcity, Universal
   
 </details>
